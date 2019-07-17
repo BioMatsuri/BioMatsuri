@@ -1,0 +1,23 @@
+{
+  "name": "biomatsuri",
+  "version": "1.0.0",
+  "description": "BioMatsuri VuePress Site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BioMatsuri/BioMatsuri.git"
+  },
+  "author": "Georg Tremmel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BioMatsuri/BioMatsuri/issues"
+  },
+  "homepage": "https://github.com/BioMatsuri/BioMatsuri#readme",
+  "dependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
