@@ -1,23 +1,16 @@
 {
-  "name": "biomatsuri",
+  "name": "vuepress-test",
   "version": "1.0.0",
-  "description": "BioMatsuri VuePress Site",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BioMatsuri/BioMatsuri.git"
-  },
-  "author": "Georg Tremmel",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BioMatsuri/BioMatsuri/issues"
-  },
-  "homepage": "https://github.com/BioMatsuri/BioMatsuri#readme",
-  "dependencies": {
-    "vuepress": "^1.0.2"
+  "devDependencies": {
+    "vuepress": "^1.7.1"
   }
 }
