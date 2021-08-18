@@ -8,7 +8,7 @@
 
 ## Preparation Checklist
 
-# :strawberry: :leaves: :egg:
+# :strawberry: :strawberry: :leaves: :egg:
 
 Please prepare the following things **BEFORE** the workshop:
 
