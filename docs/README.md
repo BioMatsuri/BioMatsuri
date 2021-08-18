@@ -1,6 +1,6 @@
 # BioMatsuri 2021
 
-20.8.2021, 13:00 - 15:00, in collaboration with Mirai Summer Camp
+20.8.2021, 13:00 - 15:00, in collaboration with Kid's Summer Camp
 
 
 ![BioMatsuri](./images/biomatsuri.jpg)
