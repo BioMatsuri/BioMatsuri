@@ -2,17 +2,13 @@ module.exports = {
   locales: {
     '/': {
       lang: 'ja-JP', // this will be set as the lang attribute on <html>
-      selectText: 'Languages',
-      label: '日本語',
       title: 'バイア祭り 2021 ',
-      description: ''
+      description: '',
     },
     '/en/': {
       lang: 'en-US',
-      selectText: 'Languages',
-      label: 'English',
       title: 'BioMatsuri 2021',
-      description: ''
+      description: '',
     }
   },
   themeConfig: {
@@ -20,29 +16,37 @@ module.exports = {
     logo: '/biomatsuri.jpg',
     locales: {
       '/': {
-        selectText: 'English',
+        selectText: 'Language',
         label: '日本語',
         nav: [
-          { text: 'Preparation', link: '/preparation/' },
-          { text: 'What is BioMatsuri?', link: '/about/' },
-          { text: 'Workshops', link: '/workshops/' },
+          { text: '準備', link: '/preparation/' },
+          { text: '時刻表', link: '/timetable/' },
+          { text: 'ザ・キット', link: '/kit/' },
+          { text: 'ワークショップ',
+            items: [
+                { text: 'DNAの抽出', link: '/workshops/dna-extraction/' },
+                { text: '人工細胞', link: '/workshops/artificial-cells/' },
+                { text: 'バクテリアの培養', link: '/workshops/cultivating-bacteria/' },
+                { text: '顕微鏡', link: '/workshops/microscopy/' }
+              ]
+           },
         ]
       },
       '/en/': {
-        selectText: '日本語',
+        selectText: 'Language',
         label: 'English',
         nav: [
           { text: 'Preparation', link: '/en/preparation/' },
-          { text: 'What is BioMatsuri?', link: '/en/about/' },
+          { text: 'Timetable', link: '/en/timetable/' },
           { text: 'The Kit', link: '/en/kit/' },
           { text: 'Workshops',
             items: [
-                { text: 'Chinese', link: '/en/workshops/' },
-                { text: 'Chinese', link: '/en/workshops/' },
+                { text: 'DNA Extraction', link: '/en/workshops/dna-extraction/' },
+                { text: 'Artificial Cells', link: '/en/workshops/artificial-cells/' },
+                { text: 'Cultivating Bacteria', link: '/en/workshops/cultivating-bacteria/' },
+                { text: 'Microscopy', link: '/en/workshops/microscopy/' }
               ]
-           },
-
-
+           }
         ]
       }
     }

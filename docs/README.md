@@ -1,81 +1,25 @@
-# BioMatsuri 2021
-
-20.8.2021, 13:00 - 15:00, in collaboration with Kid's Summer Camp
-
+# バイア祭り 2021
 
 ![BioMatsuri](./images/biomatsuri.jpg)
 
-
-## Preparation Checklist
-
-# :strawberry: :leaves: :egg:
-
-Please prepare the following things **BEFORE** the workshop:
-
-### Microscopy
-::: tip MAKE THE FOLDSCOPE
-- Follow the [instruction video](microscopy) and the manual to fold the paper microscope. It will take between 20 and 30min to make the Foldscope.
+::: tip ワークショップの準備
+[ワークショップ開催前に](/preparation/)、準備作業を行ってください。
 :::
 
-### DNA Extraction
-::: danger GET STRAWBERRIES
-You will need at least 1 strawberry. If you can not find a fresh strawberry, get frozen strawberries.
-:strawberry: :strawberry: :strawberry:
-:::
+## 時?
+このワークショップは、2021年8月20日（金）13:00～15:00にZoomを使ってオンラインで行われます。
 
-### Bacteria Cultivation
+## 何が?
+バイア祭りは、生物学のトピックやテクニックに親しみ、興味を持ってもらうためにデザインされた、自由に参加できるDIY生物学ワークショップのシリーズです。
 
-::: warning COLLECT SOIL & LEAVES
-Collect different kinds of soils.
-- From a river
-- From a pond
-- From a park or garden
+今年のワークショップでは、私たちが行います。:
+- イチゴからのDNA抽出
+- 人工細胞の作成
+- 純粋なバクテリアと混合バクテリアの培養
+- フォールドスコープで顕微鏡を学ぶ
 
-Use the zip-loc bags to collect different kinds of soils. Also use one bag to collect dry leaves.
-Please collect enough soil so that we can fill the bottle during the workshop.
+---
 
-:leaves: :leaves: :leaves:
-:::
+バイア祭りは、その一環として開催されます。[Kids Workshop 2021](https://www.roppongihills.com/en/sp/workshop/2021/).
 
-::: warning COLLECT WATER
-- Collect water from pond or river
-Use a 500ml PET bottle to collect water.
-:::
-
-
-::: warning ONE COOKED EGG
-- Please prepare a cooked egg. Onsem tamago is also ok.
-:egg:
-:::
-
-Please prepare the following 1 DAY BEFORE the workshop:
-
-::: warning PREPARE PETRI DISHES
-
-- Mix the following ingredients: 150ml Water, 2mg Agar, Sugar Stick, 2mg Chicken Stock
-
-- Use a Cooking Pot and cook it for 2min. Stir well.
-
-- Take 5 Petri Dishes
-
-- Pour ca. 20ml into each Petri Dish, enough to cover the bottom of the dish.
-
-- Let the Agar in the Petri Dishes settle, it takes ca. 1 hour.
-
-- Once the agar is solid, turn then petri dishes around, so that the bottom of the dish is on top. This avoids condensation.
-:::
-
-### Artificial Cells
-
-Please prepare the following 1 DAY BEFORE the workshop:
-
-::: warning Mix 2g Sodium Alginate with 100ml Water
-- Use a empty 500ml PET bottle
-- Add 100ml Water
-- Add 2g Sodium Alginate
-- Shake and Mix well
-
-The Sodium Alginate and Water will take time to mix properly. Let it rest overnight.
-:::
-
-:100: :tada: Congratulations! You finished the preparations! See you at the Workshop!
+<img src="./images/kidsworkshop_square.jpg" width="50" height="50">
