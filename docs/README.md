@@ -1,4 +1,4 @@
-# バイア祭り 2021
+# バイオ祭り 2021
 
 ![BioMatsuri](./images/biomatsuri.jpg)
 
