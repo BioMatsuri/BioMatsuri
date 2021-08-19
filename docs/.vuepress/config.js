@@ -2,7 +2,7 @@ module.exports = {
   locales: {
     '/': {
       lang: 'ja-JP', // this will be set as the lang attribute on <html>
-      title: 'バイア祭り 2021 ',
+      title: 'バイオ祭り 2021 ',
       description: '',
     },
     '/en/': {
