@@ -13,7 +13,7 @@ module.exports = {
   },
   themeConfig: {
     search: false,
-    logo: '/biomatsuri.jpg',
+    logo: '/images/biomatsuri.jpg',
     locales: {
       '/': {
         selectText: 'Language',
