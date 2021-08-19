@@ -1,3 +1,3 @@
-# The Kit
+# ザ・キット
 
-更新中です
+![](/images/kit.jpg)

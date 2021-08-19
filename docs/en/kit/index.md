@@ -1,3 +1,3 @@
 # The Kit
 
-Updating...
+![](/images/kit.jpg)
