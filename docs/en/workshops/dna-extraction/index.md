@@ -25,6 +25,7 @@ Please prepare the following:
 ::: danger CHALLENGE
 Make your own Test Tube stand.
 :::
+
 ## Background
 ...
 
@@ -45,6 +46,7 @@ Make your own Test Tube stand.
 - How long is the combined DNA of a human cell?
 - How long is the combined DNA of a human body?
 :::
+
 ## Next Steps
 
 ::: warning Next Steps
