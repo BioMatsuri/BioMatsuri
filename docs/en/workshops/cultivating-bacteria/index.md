@@ -115,18 +115,3 @@ Winogradsky columns are self-enclosed eco-systems that support of society of bac
 It will take some days and weeks to establish the ecosystem.
 
 Do not mix or shake the finished bottle.
-
-
-::: tip Questions
-
-:::
-
-## Next Steps
-
-::: warning Next Steps
-- How to extract DNA from other fruits, plants and animals?
-- Can you extract DNA from your own spit?
-- How to isolate DNA further?
-- What to do with the isolated DNA?
-- What is the difference between DNA and RNA?
-:::

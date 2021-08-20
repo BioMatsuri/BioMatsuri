@@ -1,9 +1,7 @@
 # Artificial Cells
 
 ::: tip GOALS
-- Extract DNA from Strawberries
-- Understand that DNA is the basis of all known life
-- Learn how to use Test Tubes
+- Learn how to do Spherification
 :::
 
 ### Kit Content
@@ -12,7 +10,8 @@
 - Sodium Alginate 2g
 - Food Colors
 - Droppers
-- Cups
+- Paper Cups
+- Clear Plastic Cups
 - Yeast
 
 ### Preparation

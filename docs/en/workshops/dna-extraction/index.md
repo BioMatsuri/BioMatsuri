@@ -26,9 +26,6 @@ Please prepare the following:
 Make your own Test Tube stand.
 :::
 
-## Background
-...
-
 ## Protocol
 
 1. Put Strawberry in Zip-Loc Bag

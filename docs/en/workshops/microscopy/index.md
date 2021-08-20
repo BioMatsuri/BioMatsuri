@@ -11,6 +11,11 @@
 
 ## About the Foldscope
 
+[Microcosm: Foldscope Community](https://microcosmos.foldscope.com)
+
+[Foldscope Youtube Channel](https://www.youtube.com/c/FoldscopeInstruments/)
+
+
 ## Manual
 
 ## Assembly Video
