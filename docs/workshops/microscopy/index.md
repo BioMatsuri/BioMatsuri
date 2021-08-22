@@ -28,4 +28,5 @@
 ::: warning 次のステップ
 - 生きている微生物と一緒にスライドを作ります。
 - [Foldscopeコミュニティ](https://microcosmos.foldscope.com)に参加して、写真を共有します。
+- [自分で標本スライドを作ってみよう!](/workshops/microscopy/howtomakeslide/)
 :::
