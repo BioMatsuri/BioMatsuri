@@ -1,6 +1,6 @@
 # スライドの作り方
 
-![玉ねぎのスライド](/docs/images/onionslide.jpg)
+![玉ねぎのスライド](/images/onionslide.jpg)
  
 
 ::: danger
